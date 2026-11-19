@@ -1,0 +1,4 @@
+Project : Release
+Version : 1.0
+status : Stable
+Purpose : Demonstrate git tagin and release management 
